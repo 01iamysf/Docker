@@ -1,5 +1,5 @@
 <img width="1213" height="402" alt="image" src="https://github.com/user-attachments/assets/864a8851-0e7a-4c41-8c2a-09a7dd6b9590" />
-
+ 
 ---
 # Docker & Virtualization Basics
 
